@@ -1,0 +1,81 @@
+{
+
+    "imgArgProg": "assets/img/APLogo-20-20.png",
+    "imgFace": "assets/img/faceeeee.png",
+    "imgInsta": "assets/img/instaa.png",
+    "linkArg" : "https://www.argentina.gob.ar/economia/conocimiento/argentina-programa",
+    "linkFace" : "https://www.facebook.com/facundo.garmendia",
+    "linkInsta" : "https://www.instagram.com/fa_garmendia/",
+    "login" : "Login",
+
+
+
+
+    "nombre" : "Facundo Martín Garmendia",
+    "titulo" : "Full Stack Developer Jr",
+    "infoResumida" : "Me considero una persona responsable, de rapido aprendizaje y adaptacion.",
+    "backImage" : "img/fondo.jpg",
+    "imgPerfil" : "assets/img/perfil.jpg",
+
+
+
+
+    "expe" : "Experiencias",
+    "imgExpe" : "assets/img/trabajo.jpg",
+    "exp1" : "Parque Nacional Lago Puelo: Cobro de acceso y Casilla de Informes, Temporada 2013 y 2014.",
+    "exp2" : "Heladeria Jauja: Atencion al publico y Cajero desde 2015 hasta 2018.",
+    "exp3" : "Financiera Patagonica: Encargado de ventas y atencion al publico desde 2018 hasta 2020.",
+    "exp4" : "Sandwicheria Los Nogales: Administracion y atencion al publico desde 2020.",
+    
+    
+    
+    "edu" : "Educacion",
+    "edu1" : "Escuela Secundaria N°788: Comunicacion Arte y Diseño.",
+    "edu2" : "Curso de Informática Multimedia en Centro de formación profesional (C.F.P) N°657, año 2014.",
+    "edu3" : "Universidad de Rio Negro: Licenciatura en Diseño Artistico Audiovisual (2Años de cursada).",
+    "edu4" : "Curso Argentina Programa: #SéProgramar (fundamentos básicos de la programación, programación imperativa, programación con Objetos).",
+    "edu5" : "Curso Argentina Programa: #Yo Programo (En proceso).",
+    "imgEdu" : "assets/img/educ.jpg",
+
+
+
+
+    "habi" : "Habilidades",
+    "skill1":"HTML",
+    "skill1porc":"width: 60%",
+    "skill2":"CSS",
+    "skill2porc":"width: 60%",
+    "skill3":"Js",
+    "skill3porc":"width: 20%",
+    "skill4":"Ts",
+    "skill4porc":"width: 20%",
+    "skill5":"Angular",
+    "skill5porc":"width: 10%",
+    "skill6":"Bootstrap",
+    "skill6porc":"width: 80%",
+
+
+
+
+    "proyectos" : "Proyectos",
+    "consProyecto" : "Construccion de mi portfolio web.",
+    "progresoProyecto" : "width: 40%",
+    "deProy1" : "Este proyecto consiste en crear mi propio portfolio web. Esta aplicación debe ser de arquitectura distribuida y contener un diseño de interfaz de usuario (front end) ",
+    "deProy2" : "que muestre la información, una base de datos que almacene los datos antes mencionados y debe contar con las APIs necesarias para proveer a través de internet la información (back end).",
+    "imgProyecto" : "assets/img/proyecto.jpg",
+
+
+
+
+    "imgMail" : "assets/img/gmail.png",
+    "mail" : "Fa.garmendi95@gmail.com"
+
+
+
+
+
+
+
+
+
+}

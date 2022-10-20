@@ -1,0 +1,54 @@
+body {background-image: linear-gradient(to left, #243949 0%, #517fa4 100%);
+    color: rgb(255, 255, 255);
+    font-family: 'Quicksand', sans-serif;}
+    
+    #principal {background-image: url(assets/img/fondo.jpg);
+    background-size: cover;
+    text-align: center;
+    color: rgb(255, 253, 253);
+      padding: 12%;
+    }
+    section{ 
+      padding-top: 5%;
+      padding-bottom: 5%;
+    
+    }
+    
+    .navbar{background-image: linear-gradient(to left, #0b1822 0%, #436988 100%);}
+    
+    footer { background-color: #0b1822;
+     }
+    
+    
+    .hr1 {
+      margin-left: 60%;
+      height: 2px;
+      width: 40%;
+      background-color: rgb(255, 217, 0);
+      text-align: right;
+    }
+    
+    .hr2 {
+      height: 2px;
+      width: 40%;
+      background-color: rgb(255, 217, 0);
+    
+    }
+    
+    .hr3 {
+      margin-left: 30%;
+      height: 2px;
+      width: 40%;
+      background-color: rgb(255, 217, 0);
+      text-align: center;
+    }
+    
+    .fondo-texto-inicio {background-image: linear-gradient(to right, #0b1822da 0%, #436988da 100%);
+    margin: 10px auto;
+    }
+    
+    
+    .img-1 {
+      border-radius: 15px;
+      box-shadow: 10px 10px 0px #00000063 ;
+    }

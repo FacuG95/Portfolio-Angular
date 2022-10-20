@@ -1,0 +1,25 @@
+<section class="container" id="proy">
+  
+    <div class="hr2"><h1>{{miPortfolio.proyectos}}</h1></div>
+
+    <div class="row w-100 mx-auto my-5">
+      
+      <div class="align-self-center col-lg-6 col-md-6 col-sm-12">
+        <p>{{miPortfolio.consProyecto}}</p>
+          <div class="progress">
+            <div class="progress-bar progress-bar-striped progress-bar-animated bg-dark" role="progressbar" aria-label="Animated striped example" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" [style]="miPortfolio.progresoProyecto"></div>
+          </div>
+        <p>{{miPortfolio.deProy1}} 
+          {{miPortfolio.deProy2}}</p>
+      </div>
+
+
+      <div class="col-lg-6 col-md-6 col-sm-12">
+        <img class="img-fluid img-1" width="400" [src]="miPortfolio.imgProyecto" alt="">
+        </div>
+        
+      </div>
+
+  
+
+  </section>
