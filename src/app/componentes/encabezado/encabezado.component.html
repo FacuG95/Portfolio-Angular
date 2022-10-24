@@ -28,7 +28,31 @@
                 <li class="nav-item"><a class="nav-link" href="#edu">Educacion</a></li>
                 <li class="nav-item"><a class="nav-link" href="#habi">Habilidades</a></li>
                 <li class="nav-item"><a class="nav-link" href="#proy">Proyectos</a></li>
-                <li class="nav-item"><a class="nav-link text-warning" href="#">Login</a></li>
+                <li class="dropdown">
+                  <button type="button" class="btn btn-warning dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false" data-bs-auto-close="outside">
+                    Login
+                  </button>
+                  <form class="dropdown-menu p-4">
+                    <div class="mb-3">
+                      <label for="exampleDropdownFormEmail2" class="form-label">Username</label>
+                      <input type="username" class="form-control" id="exampleDropdownFormEmail2" placeholder="Username">
+                    </div>
+                    <div class="mb-3">
+                      <label for="exampleDropdownFormPassword2" class="form-label">Password</label>
+                      <input type="password" class="form-control" id="exampleDropdownFormPassword2" placeholder="Password">
+                    </div>
+                    <div class="mb-3">
+                      <div class="form-check">
+                        <input type="checkbox" class="form-check-input" id="dropdownCheck2">
+                        <label class="form-check-label" for="dropdownCheck2">
+                          Remember me
+                        </label>
+                      </div>
+                    </div>
+                    <button type="submit" class="btn btn-warning">Sign in</button>
+                  </form>
+                </li>
+
             </ul>
 
                <a [href]="miPortfolio.linkFace"> <img class="ms-4 me-2" [src]="miPortfolio.imgFace" width="25px"></a>

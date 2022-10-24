@@ -1,6 +1,7 @@
+* {font-family: 'Quicksand', sans-serif;}
 body {background-image: linear-gradient(to left, #243949 0%, #517fa4 100%);
     color: rgb(255, 255, 255);
-    font-family: 'Quicksand', sans-serif;}
+    }
     
     #principal {background-image: url(assets/img/fondo.jpg);
     background-size: cover;
@@ -11,12 +12,14 @@ body {background-image: linear-gradient(to left, #243949 0%, #517fa4 100%);
     section{ 
       padding-top: 5%;
       padding-bottom: 5%;
+      color: rgb(255, 253, 253);
     
     }
     
     .navbar{background-image: linear-gradient(to left, #0b1822 0%, #436988 100%);}
     
     footer { background-color: #0b1822;
+      color: rgb(255, 253, 253);
      }
     
     
